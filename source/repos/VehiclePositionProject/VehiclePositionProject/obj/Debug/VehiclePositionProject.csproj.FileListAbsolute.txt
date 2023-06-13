@@ -1,0 +1,8 @@
+C:\Users\archi\source\repos\VehiclePositionProject\VehiclePositionProject\bin\Debug\VehiclePositionProject.exe.config
+C:\Users\archi\source\repos\VehiclePositionProject\VehiclePositionProject\bin\Debug\VehiclePositionProject.exe
+C:\Users\archi\source\repos\VehiclePositionProject\VehiclePositionProject\bin\Debug\VehiclePositionProject.pdb
+C:\Users\archi\source\repos\VehiclePositionProject\VehiclePositionProject\obj\Debug\VehiclePositionProject.csproj.AssemblyReference.cache
+C:\Users\archi\source\repos\VehiclePositionProject\VehiclePositionProject\obj\Debug\VehiclePositionProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\archi\source\repos\VehiclePositionProject\VehiclePositionProject\obj\Debug\VehiclePositionProject.csproj.CoreCompileInputs.cache
+C:\Users\archi\source\repos\VehiclePositionProject\VehiclePositionProject\obj\Debug\VehiclePositionProject.exe
+C:\Users\archi\source\repos\VehiclePositionProject\VehiclePositionProject\obj\Debug\VehiclePositionProject.pdb
