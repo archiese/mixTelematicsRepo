@@ -1,8 +1,0 @@
-C:\Users\archi\source\repos\VehiclePositionAssessment\VehiclePositionAssessment\bin\Debug\VehiclePositionAssessment.exe.config
-C:\Users\archi\source\repos\VehiclePositionAssessment\VehiclePositionAssessment\bin\Debug\VehiclePositionAssessment.exe
-C:\Users\archi\source\repos\VehiclePositionAssessment\VehiclePositionAssessment\bin\Debug\VehiclePositionAssessment.pdb
-C:\Users\archi\source\repos\VehiclePositionAssessment\VehiclePositionAssessment\obj\Debug\VehiclePositionAssessment.csproj.AssemblyReference.cache
-C:\Users\archi\source\repos\VehiclePositionAssessment\VehiclePositionAssessment\obj\Debug\VehiclePositionAssessment.csproj.SuggestedBindingRedirects.cache
-C:\Users\archi\source\repos\VehiclePositionAssessment\VehiclePositionAssessment\obj\Debug\VehiclePositionAssessment.csproj.CoreCompileInputs.cache
-C:\Users\archi\source\repos\VehiclePositionAssessment\VehiclePositionAssessment\obj\Debug\VehiclePositionAssessment.exe
-C:\Users\archi\source\repos\VehiclePositionAssessment\VehiclePositionAssessment\obj\Debug\VehiclePositionAssessment.pdb
